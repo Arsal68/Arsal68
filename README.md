@@ -20,4 +20,6 @@ A passionate CSIT Student, looking forward to enhance my skills by working with 
 
 [![](https://visitcount.itsvg.in/api?id=Arsal68&icon=5&color=4)](https://visitcount.itsvg.in)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsal68&label=Profile%20views&color=0e75b6&style=flat" alt="arsal68" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
