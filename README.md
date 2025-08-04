@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A passionate CSIT Student, looking forward to enhance my skills by working with aspiring people and organizations in a collaborative environment. Also to put my skills into practical implementations where I can nurture them.
 
 
